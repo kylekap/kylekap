@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![mustache](https://pbs.twimg.com/profile_images/1464389628941811715/36yJVxtJ_400x400.jpg)
-
 ## About
 I'm a Manufacturing Engineer, and you can learn more about my professional career here [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](www.linkedin.com/in/kyleapatterson)
 
