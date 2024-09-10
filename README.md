@@ -58,5 +58,5 @@ I'm a Manufacturing Engineer, and you can learn more about my professional caree
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylekap&show_icons=true&hide_border=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylekap&hide=css,html&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylekap&show_icons=true&hide_border=true&theme=highcontrast&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylekap&hide=css,html&hide_border=true&theme=highcontrast)
