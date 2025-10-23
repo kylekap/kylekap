@@ -26,17 +26,16 @@ I'm a Manufacturing Engineer, and you can learn more about my professional caree
 - [Evil Wordle](https://github.com/kylekap/EvilWordle)
 - [Wordle Assistant](https://github.com/kylekap/WordleAssist)
 - [QR code generation](https://github.com/kylekap/QR)
-- Zebra Printer code
 - [Western Electric rules for SPC](https://github.com/kylekap/WesternElectricSPC)
 </details>
   
 <details>
 <summary>Currently Exploring</summary>
 
+- [Relative Placements](https://github.com/kylekap/RelativePlacement)
 - Logic games
   - Sudoku
   - Queens / Star Battle
-- [Relative Placements](https://github.com/kylekap/RelativePlacement)
 
 </details>
   
